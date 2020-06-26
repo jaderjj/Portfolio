@@ -1,2 +1,2 @@
-# Portfolio
-Riley Jefferson's Portfolio
+# Data Science Portfolio
+## Riley Jefferson - rileyjefferson65@gmail.com
