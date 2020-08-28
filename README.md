@@ -1,4 +1,4 @@
-# Riley Jefferson's Portfolio
+# Riley Jefferson - Portfolio
 ## Contact email - rileyjefferson65@gmail.com
 
 ## 1. Artificial Neural Network
