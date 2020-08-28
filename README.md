@@ -13,3 +13,7 @@
   This work was acknowledged by the lead of the study, Eric Forcier, Ph.D Student, Swinburne University of Technology, Faculty of Health, Arts and Design (http://ericforcier.ca/when-the-world-ends-study-of-fakewesteros/)
 
   *<sup>1</sup>Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.*
+
+## 3. Data Mining
+- **Repository:** https://github.com/jaderjj/Data_Mining_Essentials
+- **Summary:**
