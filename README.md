@@ -1,5 +1,5 @@
 # Riley Jefferson - Portfolio
-## Contact email - rileyjefferson65@gmail.com
+## Contact email - jj12998@protonmail.com
 
 ## 1. Artificial Neural Network
 - **Repository**: https://github.com/jaderjj/First_Artifical_Neural_Network
